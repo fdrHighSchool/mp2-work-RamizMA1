@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println(countHi("hihihihi"));
+    System.out.println(countHi("hi what's your name hi"));
   }
 
   public static int countHi(String str) {
